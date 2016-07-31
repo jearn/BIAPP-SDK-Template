@@ -7,3 +7,4 @@ Bundle-Activator: com.github.jearn.template.Activator
 Bundle-Vendor: com.github.jearn
 Require-Bundle: com.sap.ip.bi.zen.rt.components.sdk,
  com.sap.ip.bi.zen.rt.components.sdk.eclipse
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
