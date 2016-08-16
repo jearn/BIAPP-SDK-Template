@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sdkExtension
+	xmlns="http://www.sap.com/bi/zen/sdk"
+	id="com.github.jearn.template"
+	title="Design Studio SDK Extension Template"
+	version="1.0"
+	vendor="com.github.jearn">
+	<component
+		id="Template"
+		title="Template"
+		icon="res/com.github.jearn.template/component.png"
+		handlerType="div"
+		modes="commons m"    
+		databound="true">
+		<requireJs modes="commons m">res/com.github.jearn.template/js/component</requireJs>  
+		<!-- >jsInclude>res/com.github.jearn.template/js/component.js</jsInclude>
+		<cssInclude>res/com.github.jearn.template/css/component.css</cssInclude -->
+		<initialization>
+			<defaultValue property="LEFT_MARGIN">40</defaultValue>
+			<defaultValue property="TOP_MARGIN">40</defaultValue>
+			<defaultValue property="WIDTH">100</defaultValue>
+			<defaultValue property="HEIGHT">50</defaultValue>
+		</initialization>
+	</component>
+</sdkExtension>
