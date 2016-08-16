@@ -10,3 +10,5 @@ Prerequirements for this template can be found in <a href="https://github.com/je
 <br/>
 
 Die Vorbereitungen zum Template sind auch in deutsch beschrieben und verf&uuml;gbar als <a href="http://jearn.net16.net/biapp/BIAPP-SDK-Extension/de.html">How To</a> oder <a href="https://github.com/jearn/BIAPP-SDK-Extension/wiki/HowTo.de">Wiki</a>.
+<br/>
+Das HowTo und Wiki wird f&uuml;r das Template ebenfalls auf deutsch erscheinen.

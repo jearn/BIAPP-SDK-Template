@@ -9,6 +9,7 @@
 		id="Template"
 		title="Template"
 		icon="res/com.github.jearn.template/component.png"
+		propertySheetPath="res/com.github.jearn.template/aps/aps.html"
 		handlerType="div"
 		modes="commons m"    
 		databound="true">
